@@ -11,6 +11,9 @@
       <div class="links">
         <router-link to="list">list</router-link>
       </div>
+      <div class="links">
+        <router-link to="view/view">view</router-link>
+      </div>
     </div>
   </section>
 </template>
